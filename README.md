@@ -34,7 +34,7 @@ If you are already in the hiring process, you may send it to
  whoever is your contact at Intelie. If you wish to apply for a job at 
  Intelie, please send your solution to [trabalhe@intelie.com.br](mailto:trabalhe@intelie.com.br).
  
- ###
+ ### Procedure to assure a client computer (CentOS 7) to access trough (HTTP) a “Service” in a Server CentOS 7 Station by the 8000 Port – Using SSH Key Encryption
  
   • In order we have to assume Network Configuration is configured and running for this task, and as the NOTE say´s we have the service running in Server A on the 8000 port.
       
